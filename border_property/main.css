@@ -1,0 +1,15 @@
+div{
+  width: 100px;
+  height: 100px;
+  border: 1px solid red;
+}
+
+img{
+  border: 10px dashed blue;
+}
+.dogone{
+  border: 10px dotted gray;
+}
+.dogtwo{
+  border: 10px double green;
+}
