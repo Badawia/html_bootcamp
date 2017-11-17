@@ -1,0 +1,10 @@
+div{
+  width: 400px;
+  height: 200px;
+  background-color: gray;
+  border: 40px dashed red;
+  margin: 20px auto;
+}
+.boxSize{
+  box-sizing: border-box;
+}
