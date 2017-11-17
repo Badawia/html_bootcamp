@@ -1,0 +1,22 @@
+div{
+  width: 100px;
+  height: 100px;
+  border: 1px solid red;
+  border-radius: 35px;
+  display: inline-block;
+}
+
+img{
+  width: 100px;
+  box-sizing: border-box;
+  border: 5px dashed blue;
+  border-radius: 80%;
+  padding: 5px;
+
+}
+.dogone{
+  border: 5px dotted gray;
+}
+.dogtwo{
+  border: 5px double green;
+}
