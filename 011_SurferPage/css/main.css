@@ -1,40 +1,47 @@
-html{
+html {
   background-color: #2b547e;
 }
 
-body{
+body {
   background-color: green;
   border: 2px solid black;
   width: 60%;
   margin: 0 auto;
   padding: 20px 0 60px 0;
-
 }
-img{
+
+img {
   display: block;
   margin: 0 auto;
   border-radius: 100%;
   border: 5px solid #2b547e;
-
 }
 
-h1{
+h1 {
   font-size: 36px;
   padding: 0 0 0 10px;
+
 }
 
-P::first-letter{
+P::first-letter {
   font-family: cursive;
   font-size: 30PX;
   line-height: 0.5;
 }
-p{
+
+p {
+  text-indent: 1rem;
   margin: 0 20px 0 20px;
   color: white;
+  text-align: justify;
 }
-#primary{
+
+#primary {
   color: orange;
+  text-shadow: 1px 5px 5px red;
 }
-#secondary{
+/*text-decoration: none
+this is mostly used to get rid of the underline to links*/
+#secondary {
   color: red;
 }
