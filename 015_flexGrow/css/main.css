@@ -1,0 +1,21 @@
+body{
+  display: flex;
+  /*border: 2px solid red;*/
+
+}
+div{
+  border: 2px solid black;
+  height: 100px
+}
+.flex1{
+  flex-grow: 1;
+  color: green;
+  border: .05px solid yellow;
+}
+.flex2{
+  flex-grow: 2;
+  color: blue;
+  border: .05px dashed red;
+  text-align: center;
+
+}
